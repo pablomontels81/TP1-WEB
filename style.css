@@ -1,0 +1,62 @@
+.page{
+    width: auto;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.separation{
+    background-color: white;
+    width: 160px;
+    height: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5%;
+}
+
+.texte{
+    margin-left: 4px;
+}
+
+.infogeneral{
+    
+    float: left;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+    color: white;
+    background-color: teal;
+    font-size: small;
+    height: 1000px;
+    width: 180px;
+}
+
+.infoautre{
+    margin-left: 200px;
+}
+
+.texteexplicatif{
+    margin-left: 180px;
+}
+
+.date{
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.titre_formation{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.titre1{
+    text-align: center;
+}
+
+.titre2{
+    font-size: 21px;
+}
+
+li{
+    font-size: 9px;
+}
