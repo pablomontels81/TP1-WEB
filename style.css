@@ -60,3 +60,9 @@
 li{
     font-size: 9px;
 }
+
+footer{
+    background-color: teal;
+    height: 120px;
+    width: 2000px;
+}
